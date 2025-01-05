@@ -29,10 +29,7 @@
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](www.linkedin.com/in/usama-mansoor](https://www.linkedin.com/in/YourProfile)]
-[![Portfolio]([https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=internet-explorer&logoColor=white&link=https://yourportfolio.com](https://usamawebdeveloper.netlify.app/))]
-[![GitHub]([https://img.shields.io/github/followers/UsamaMansoor026?label=Follow&style=social)](https://github.com/YourUsername](https://github.com/UsamaMansoor026))
+![LinkedIn](www.linkedin.com/in/usama-mansoor](https://www.linkedin.com/in/YourProfile)
+![Portfolio](https://usamawebdeveloper.netlify.app/))
+![GitHub](https://github.com/YourUsername](https://github.com/UsamaMansoor026))
 
-
-## 🖼️ Profile Badges
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=radical)
