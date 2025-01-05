@@ -29,7 +29,7 @@
 ---
 
 ## 🔗 Connect with Me
-![LinkedIn](www.linkedin.com/in/usama-mansoor](https://www.linkedin.com/in/YourProfile)
-![Portfolio](https://usamawebdeveloper.netlify.app/))
-![GitHub](https://github.com/YourUsername](https://github.com/UsamaMansoor026))
+- (https://www.linkedin.com/in/usama-mansoor)
+- (https://usamawebdeveloper.netlify.app/)
+- (https://github.com/UsamaMansoor026)
 
