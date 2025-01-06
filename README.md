@@ -1,3 +1,5 @@
+Hi My Name is Usama Mansoor, a Computer Science Graduate and a FrontEnd Developer.
+
 # 💫 About Me:
 - 🔭 I’m currently working on **Web Development Projects**<br>- 🌱 I’m learning **React, Redux, Firebase, and TypeScript**<br>- 👯 I’m looking to collaborate on **Open Source Projects**<br>- 💬 Ask me about **Frontend Development and JavaScript**<br>- 📫 How to reach me: usamamansoor79@gmail.com<br>- ⚡ Fun fact: **I love solving coding challenges**
 
